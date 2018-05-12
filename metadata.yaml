@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/344
     wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18369#Westminster-Sermonswith-a-Preface
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2006-05-10'
 gutenberg_type: Text
